@@ -23,7 +23,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/01-숫자로%20먼저%20보는%20저-FF5316?style=flat-square&labelColor=174DC4"/>
+<img src="https://img.shields.io/badge/01-FF5316?style=flat-square"/>
 
 ## 숫자로 먼저 보는 저
 
@@ -39,7 +39,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/02-대표작-FF5316?style=flat-square&labelColor=174DC4"/>
+<img src="https://img.shields.io/badge/02-FF5316?style=flat-square"/>
 
 ## 대표작
 
@@ -86,7 +86,7 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 <br>
 
-<img src="https://img.shields.io/badge/03-프로젝트-FF5316?style=flat-square&labelColor=174DC4"/>
+<img src="https://img.shields.io/badge/03-FF5316?style=flat-square"/>
 
 ## 프로젝트
 
@@ -102,7 +102,7 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 <br>
 
-<img src="https://img.shields.io/badge/04-경력%20·%20활동-FF5316?style=flat-square&labelColor=174DC4"/>
+<img src="https://img.shields.io/badge/04-FF5316?style=flat-square"/>
 
 ## 경력 · 활동
 
@@ -123,7 +123,7 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 <br>
 
-<img src="https://img.shields.io/badge/05-학력%20·%20자격-FF5316?style=flat-square&labelColor=174DC4"/>
+<img src="https://img.shields.io/badge/05-FF5316?style=flat-square"/>
 
 ## 학력 · 자격
 
@@ -133,7 +133,7 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 <br>
 
-<img src="https://img.shields.io/badge/06-도구-FF5316?style=flat-square&labelColor=174DC4"/>
+<img src="https://img.shields.io/badge/06-FF5316?style=flat-square"/>
 
 ## 도구
 
@@ -163,7 +163,7 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 <br>
 
-<img src="https://img.shields.io/badge/07-알고리즘%20·%20GitHub-FF5316?style=flat-square&labelColor=174DC4"/>
+<img src="https://img.shields.io/badge/07-FF5316?style=flat-square"/>
 
 ## 알고리즘 · GitHub
 
