@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="SIM MINJI · AI Engineer">
+  <rect width="1200" height="320" rx="24" fill="#F2F1E4"/>
+  <rect x="30" y="30" width="1140" height="260" rx="20" fill="none" stroke="#BFC9DB" stroke-width="1.5"/>
+  <rect x="360" y="86" width="480" height="104" rx="52" fill="none" stroke="#FF5316" stroke-width="3"/>
+  <text x="600" y="160" text-anchor="middle" font-family="'Arial Black','Impact','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="64" letter-spacing="4" fill="#FF5316">SIM MINJI</text>
+  <rect x="432" y="216" width="336" height="40" rx="20" fill="#174DC4"/>
+  <text x="600" y="243" text-anchor="middle" font-family="'Inter','Noto Sans KR','Segoe UI',Arial,sans-serif" font-weight="500" font-size="17" letter-spacing="3" fill="#F2F1E4">AI ENGINEER · NLP · LLM</text>
+  <circle cx="86" cy="86" r="10" fill="#FF5316"/>
+  <circle cx="1114" cy="234" r="10" fill="#174DC4"/>
+</svg>

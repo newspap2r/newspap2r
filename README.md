@@ -1,15 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6B799E,55:9C8F96,100:EBC57C&height=230&section=header&text=SIM%20MINJI&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%7C%20NLP%20%C2%B7%20LLM&descSize=22&descAlignY=58&descColor=ffffff)
+<img src="./assets/header.svg" width="100%" alt="SIM MINJI · AI Engineer"/>
 
-### 심민지 · AI Engineer
+아주대학교 비즈니스애널리틱스 석사과정 · NLP · LLM 응용
 
-NLP · LLM 응용 · 아주대학교 비즈니스애널리틱스 석사과정
-
-<a href="mailto:mjmj752002@naver.com"><img src="https://img.shields.io/badge/Email-6B799E?style=flat-square&logo=naver&logoColor=white"/></a>
-<a href="https://velog.io/@newspaper"><img src="https://img.shields.io/badge/Velog-9C8F96?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="https://github.com/newspap2r"><img src="https://img.shields.io/badge/GitHub-6B799E?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://solved.ac/newspap2r"><img src="https://img.shields.io/badge/solved.ac-newspap2r-EBC57C?style=flat-square&logo=baekjoon&logoColor=white"/></a>
+<a href="mailto:mjmj752002@naver.com"><img src="https://img.shields.io/badge/Email-FF5316?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="https://velog.io/@newspaper"><img src="https://img.shields.io/badge/Velog-174DC4?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://github.com/newspap2r"><img src="https://img.shields.io/badge/GitHub-174DC4?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://solved.ac/newspap2r"><img src="https://img.shields.io/badge/solved.ac-newspap2r-FF5316?style=flat-square&logo=baekjoon&logoColor=white"/></a>
 
 </div>
 
@@ -25,18 +23,23 @@ NLP · LLM 응용 · 아주대학교 비즈니스애널리틱스 석사과정
 
 <br>
 
+<img src="https://img.shields.io/badge/01-숫자로%20먼저%20보는%20저-FF5316?style=flat-square&labelColor=174DC4"/>
+
 ## 숫자로 먼저 보는 저
 
 <div align="center">
 
-| 339만 건 | 0.632 | 14,313 건 | 1 편 | 29 회 |
-|:---:|:---:|:---:|:---:|:---:|
-| 수집한 유튜브 댓글 | 감성 모델 macro-F1 | 공공조달 납품요구 | 제1저자 논문 | 주간 발간물 |
-| 다국어 감성 · 토픽 파이프라인 | 골드셋 600건 직접 라벨링 | Streamlit Cloud 배포 | 한국전자거래학회지 · 학회 발표 3회 | 공공기관 수집 · 분석 자동화 |
+<img src="https://img.shields.io/badge/339만%20건-수집한%20유튜브%20댓글-174DC4?style=for-the-badge&labelColor=FF5316"/> <img src="https://img.shields.io/badge/0.632-감성%20모델%20macro--F1-174DC4?style=for-the-badge&labelColor=FF5316"/> <img src="https://img.shields.io/badge/14,313%20건-공공조달%20납품요구-174DC4?style=for-the-badge&labelColor=FF5316"/>
+
+<img src="https://img.shields.io/badge/1%20편-제1저자%20논문-174DC4?style=for-the-badge&labelColor=FF5316"/> <img src="https://img.shields.io/badge/29%20회-주간%20발간물-174DC4?style=for-the-badge&labelColor=FF5316"/>
+
+다국어 감성 · 토픽 파이프라인 · 골드셋 600건 직접 라벨링 · Streamlit Cloud 배포 · 한국전자거래학회지 · 학회 발표 3회 · 공공기관 수집 · 분석 자동화
 
 </div>
 
 <br>
+
+<img src="https://img.shields.io/badge/02-대표작-FF5316?style=flat-square&labelColor=174DC4"/>
 
 ## 대표작
 
@@ -83,6 +86,8 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 <br>
 
+<img src="https://img.shields.io/badge/03-프로젝트-FF5316?style=flat-square&labelColor=174DC4"/>
+
 ## 프로젝트
 
 | 프로젝트 | 분류 · 기간 | 한 줄 |
@@ -96,6 +101,8 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 다음으로 만들 것은 도서 검색 RAG 시스템입니다. bge-m3 + BM25 하이브리드 검색에 리랭커를 붙이고, RAGAS로 평가한 뒤 FastAPI로 서빙하는 것까지를 한 번에 끝내려 합니다. 평가 기준을 먼저 세우고 배포까지 가는 습관을 LLM 응용에서도 그대로 이어가는 것이 목표입니다.
 
 <br>
+
+<img src="https://img.shields.io/badge/04-경력%20·%20활동-FF5316?style=flat-square&labelColor=174DC4"/>
 
 ## 경력 · 활동
 
@@ -116,6 +123,8 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 <br>
 
+<img src="https://img.shields.io/badge/05-학력%20·%20자격-FF5316?style=flat-square&labelColor=174DC4"/>
+
 ## 학력 · 자격
 
 - 아주대학교 대학원 비즈니스애널리틱스학과 석사과정 · 2025.09 ~ 2027.06 예정
@@ -124,33 +133,37 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 <br>
 
+<img src="https://img.shields.io/badge/06-도구-FF5316?style=flat-square&labelColor=174DC4"/>
+
 ## 도구
 
 <div align="center">
 
 **ML**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Sentence--Transformers-6B799E?style=for-the-badge"/> <img src="https://img.shields.io/badge/BERTopic%20%7C%20LDA-9C8F96?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-174DC4?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-174DC4?style=flat-square&logo=huggingface&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-174DC4?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Sentence--Transformers-FF5316?style=flat-square"/> <img src="https://img.shields.io/badge/BERTopic%20%7C%20LDA-FF5316?style=flat-square"/>
 
 **LLM**
 
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/Agentica-000000?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-174DC4?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-174DC4?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-174DC4?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/Agentica-174DC4?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Claude%20Code-174DC4?style=flat-square&logo=anthropic&logoColor=white"/>
 
 **Data**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Kiwi%20%7C%20KoNLPy-6B799E?style=for-the-badge"/> <img src="https://img.shields.io/badge/YouTube%20Data%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-174DC4?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-174DC4?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-174DC4?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Kiwi%20%7C%20KoNLPy-FF5316?style=flat-square"/> <img src="https://img.shields.io/badge/YouTube%20Data%20API-174DC4?style=flat-square&logo=youtube&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-174DC4?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/R-174DC4?style=flat-square&logo=r&logoColor=white"/>
 
 **Serving · Work**
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/RunPod%20GPU-9C8F96?style=for-the-badge"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-174DC4?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-174DC4?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-174DC4?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/RunPod%20GPU-FF5316?style=flat-square"/> <img src="https://img.shields.io/badge/Jupyter-174DC4?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-174DC4?style=flat-square&logo=googlecolab&logoColor=white"/>
 
 **VCS**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-174DC4?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-174DC4?style=flat-square&logo=github&logoColor=white"/>
 
 </div>
 
 <br>
+
+<img src="https://img.shields.io/badge/07-알고리즘%20·%20GitHub-FF5316?style=flat-square&labelColor=174DC4"/>
 
 ## 알고리즘 · GitHub
 
@@ -158,10 +171,10 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=newspap2r)](https://solved.ac/newspap2r)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=newspap2r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A6C2CE&icon_color=EBC57C"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newspap2r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A6C2CE&hide=html,css"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=newspap2r&show_icons=true&hide_border=true&bg_color=F2F1E4&title_color=174DC4&icon_color=FF5316&text_color=1F2937&ring_color=FF5316"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newspap2r&layout=compact&hide_border=true&bg_color=F2F1E4&title_color=174DC4&text_color=1F2937&hide=html,css"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=newspap2r&theme=tokyonight&hide_border=true&background=0d1117&ring=A6C2CE&fire=EBC57C&currStreakLabel=A6C2CE"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=newspap2r&hide_border=true&background=F2F1E4&ring=FF5316&fire=FF5316&currStreakLabel=174DC4&sideLabels=174DC4&currStreakNum=1F2937&sideNums=1F2937&dates=6B7280&stroke=BFC9DB"/>
 
 </div>
 
@@ -169,11 +182,9 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 <div align="center">
 
-### 함께 만들 AI 서비스가 있다면
+<img src="./assets/footer.svg" width="100%" alt="함께 만들 AI 서비스가 있다면"/>
 
 분석에서 끝나지 않고 실제로 쓰이는 것까지 같이 확인할 분을 찾고 있습니다.
 mjmj752002@naver.com
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:EBC57C,45:9C8F96,100:6B799E&height=120&section=footer)
 
 </div>
