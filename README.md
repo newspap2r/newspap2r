@@ -1,15 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,50:1b7f4b,100:5ec46a&height=230&section=header&text=SIM%20MINJI&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%7C%20NLP%20%C2%B7%20LLM&descSize=22&descAlignY=58&descColor=d8f3dc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6B799E,55:9C8F96,100:EBC57C&height=230&section=header&text=SIM%20MINJI&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%7C%20NLP%20%C2%B7%20LLM&descSize=22&descAlignY=58&descColor=ffffff)
 
 ### 심민지 · AI Engineer
 
 NLP · LLM 응용 · 아주대학교 비즈니스애널리틱스 석사과정
 
-<a href="mailto:mjmj752002@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-<a href="https://velog.io/@newspaper"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="https://github.com/newspap2r"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://solved.ac/newspap2r"><img src="https://img.shields.io/badge/solved.ac-newspap2r-17a1ff?style=flat-square&logo=baekjoon&logoColor=white"/></a>
+<a href="mailto:mjmj752002@naver.com"><img src="https://img.shields.io/badge/Email-6B799E?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="https://velog.io/@newspaper"><img src="https://img.shields.io/badge/Velog-9C8F96?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://github.com/newspap2r"><img src="https://img.shields.io/badge/GitHub-6B799E?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://solved.ac/newspap2r"><img src="https://img.shields.io/badge/solved.ac-newspap2r-EBC57C?style=flat-square&logo=baekjoon&logoColor=white"/></a>
 
 </div>
 
@@ -128,7 +128,7 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 **ML**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Sentence--Transformers-0E7C7B?style=for-the-badge"/> <img src="https://img.shields.io/badge/BERTopic%20%7C%20LDA-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Sentence--Transformers-6B799E?style=for-the-badge"/> <img src="https://img.shields.io/badge/BERTopic%20%7C%20LDA-9C8F96?style=for-the-badge"/>
 
 **LLM**
 
@@ -136,11 +136,11 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 **Data**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Kiwi%20%7C%20KoNLPy-2E8B57?style=for-the-badge"/> <img src="https://img.shields.io/badge/YouTube%20Data%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Kiwi%20%7C%20KoNLPy-6B799E?style=for-the-badge"/> <img src="https://img.shields.io/badge/YouTube%20Data%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
 **Serving · Work**
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/RunPod%20GPU-673AB7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/RunPod%20GPU-9C8F96?style=for-the-badge"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 **VCS**
 
@@ -156,10 +156,10 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=newspap2r)](https://solved.ac/newspap2r)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=newspap2r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newspap2r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3fb950&hide=html,css"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=newspap2r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A6C2CE&icon_color=EBC57C"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newspap2r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A6C2CE&hide=html,css"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=newspap2r&theme=tokyonight&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=newspap2r&theme=tokyonight&hide_border=true&background=0d1117&ring=A6C2CE&fire=EBC57C&currStreakLabel=A6C2CE"/>
 
 </div>
 
@@ -171,6 +171,6 @@ AI 생성 영상(슬롭) 채널과 일반 채널의 댓글이 어떻게 다른�
 
 mjmj752002@naver.com
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5ec46a,50:1b7f4b,100:0b3d2e&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:EBC57C,45:9C8F96,100:6B799E&height=120&section=footer)
 
 </div>
