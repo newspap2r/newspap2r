@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b1b3a,50:17406d,100:2a9d8f&height=230&section=header&text=SIM%20MINJI&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%7C%20NLP%20%C2%B7%20LLM&descSize=22&descAlignY=58&descColor=dbeafe)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,50:1b7f4b,100:5ec46a&height=230&section=header&text=SIM%20MINJI&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%7C%20NLP%20%C2%B7%20LLM&descSize=22&descAlignY=58&descColor=d8f3dc)
 
 ### 👋 안녕하세요, AI 엔지니어를 지향하는 심민지입니다
 
@@ -115,10 +115,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=newspap2r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2a9d8f&icon_color=2a9d8f"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newspap2r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2a9d8f&hide=html,css"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=newspap2r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newspap2r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3fb950&hide=html,css"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=newspap2r&theme=tokyonight&hide_border=true&background=0d1117&ring=2a9d8f&fire=2a9d8f&currStreakLabel=2a9d8f"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=newspap2r&theme=tokyonight&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950"/>
 
 </div>
 
@@ -128,6 +128,6 @@
 
 **데이터가 많은 곳에서 모델이 실제로 쓸모 있게 돌아가도록 만드는 AI 엔지니어가 되고 싶습니다.**
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2a9d8f,50:17406d,100:0b1b3a&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5ec46a,50:1b7f4b,100:0b3d2e&height=120&section=footer)
 
 </div>
